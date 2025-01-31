@@ -7,9 +7,11 @@ tags: [security]
 comments: true
 ---
 
-chatGPT, Gemini, LLAMA등 LLM(Large Language Model)은 단순히 웹 인터페이스를 이용한 채팅뿐만 아니라 다양항 어플리케이션에도 탑재되어 활용되고 있습니다.
+chatGPT, Gemini, LLAMA등 LLM(Large Language Model)은 단순히 웹 인터페이스를 이용한 채팅뿐만 아니라 다양항 어플리케이션에도 탑재되어 활용되고 있습니다. 
 
-올 한 해는 AI Security와 Safety에 대해 집중적으로 연구하고, 사내에서도 이에 대한 실무적인 준비를 해나가려고 합니다.
+따라서 LLM 자체에 대한 보안 뿐만 아니라, LLM을 활용한 Application에 대한 보안 역시 매우 중요하며, 향후 이에 대한 연구가 더욱 활발히 진행될 것으로 생각합니다.
+
+저 역시 올 한 해는 AI Security와 Safety에 대해 집중적으로 연구하고, 사내에서도 이에 대한 실무적인 준비를 해나가려고 합니다.
 
 이전에 같은 팀에서 일했던 동료이자, AWSKRUG #SECURITY의 모더레이터를 맡고 있는 Seongjin Hong [Linkedin](https://www.linkedin.com/in/seongjin-hong-bbb93153/)의 부탁으로
 1월 AWSKRUG 보안 Meetup의 발표를 맡게 되었습니다.
